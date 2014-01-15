@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="960px" height="977px" viewBox="0 0 960 977" enable-background="new 0 0 960 977" xml:space="preserve">
+<rect x="-0.5" y="0.5" fill="#6DCFF6" stroke="#5FCCFF" stroke-miterlimit="10" width="961" height="977"/>
+<line fill="none" stroke="#ECF0F1" stroke-miterlimit="10" x1="658" y1="441.5" x2="714" y2="441.5"/>
+<g>
+	<polygon fill="#FFFFFF" stroke="#ECF0F1" stroke-miterlimit="10" points="658.5,409.5 747.378,409.5 779.5,441.868 779.5,505.5 
+		658.5,505.5 	"/>
+	<polyline fill="none" stroke="#ECF0F1" stroke-miterlimit="10" points="746.309,410.173 713.5,442.412 713.5,505 	"/>
+	<polygon fill="#ECF0F1" points="746.548,410 658,410 658,442 714.802,442 	"/>
+</g>
+<rect x="517" y="500" fill="#C7B299" width="351" height="36"/>
+<g>
+	<rect x="588" y="569" fill="#FFFFFF" width="70" height="206"/>
+	<rect x="572" y="775" fill="#E74C3C" width="101" height="22"/>
+	<rect x="593" y="797" fill="#E74C3C" width="58" height="36"/>
+	<rect x="603" y="802" fill="#FFF55B" width="36" height="25"/>
+	<polygon fill="#E74C3C" points="621.965,859.966 636.042,846.483 650.119,833 621.965,833 593.811,833 607.888,846.483 	"/>
+	<polygon fill="#FFFFFF" stroke="#ECF0F1" stroke-miterlimit="10" points="658.5,662.5 747.378,662.5 779.5,631.261 779.5,567.5 
+		658.5,567.5 	"/>
+	<polyline fill="none" stroke="#ECF0F1" stroke-miterlimit="10" points="746.309,663.392 713.5,630.717 713.5,569 	"/>
+	<line fill="none" stroke="#ECF0F1" stroke-miterlimit="10" x1="658" y1="631.5" x2="714" y2="631.5"/>
+	<rect x="517" y="537" fill="#C7B299" width="351" height="37"/>
+	<rect x="517" y="555" fill="#27AE60" width="351" height="19"/>
+	<rect x="587" y="723" fill="#E74C3C" width="71" height="23"/>
+	<rect x="587" y="681" fill="#E74C3C" width="71" height="22"/>
+	<polygon fill="#ECF0F1" points="746.548,663 658,663 658,631 714.802,631 	"/>
+</g>
+<rect x="-1" y="535" opacity="0.9" fill="#34495E" width="965" height="442"/>
+<text transform="matrix(1 0 0 1 82.3257 243.7227)" fill="#FFFFFF" font-family="'Lato-Hairline'" font-size="70.6903">Lighthouse</text>
+<text transform="matrix(1 0 0 1 82.3257 317.79)" fill="#FFFFFF" font-family="'Lato-Light'" font-size="24.0046">Rocket lounch your idea in no time.</text>
+<g>
+	<path fill="#E94B35" d="M651.061,309.834c7.168-25.866,5.735-62.986-28.897-107.823c-0.197,0.249-0.084,0.25-0.286,0
+		c-29.08,37.6-34.687,69.808-31.458,94.474c0.116,0.882,0.243,1.753,0.379,2.615l0.003,0.026
+		c4.353,27.403,19.636,45.34,24.07,50.023l-1.43,1.43l2.86,5.72h11.439l2.86-5.72l-1.43-1.43c1.617-1.677,5.191-5.508,8.998-11.209
+		h0.006L651.061,309.834z"/>
+	<path fill="#C23824" d="M622.021,201.868c6.197,8.025,11.458,15.936,15.668,23.449c-4.317-1.317-9.904-2.577-15.403-2.534
+		c-6.107,0.044-12.074,1.687-16.317,3.204C612.112,214.898,618.01,207.058,622.021,201.868z"/>
+	<path fill="#D7DCDE" d="M616.302,356.299h11.439l1.43,101.524h-17.159L616.302,356.299z"/>
+	<path fill="#F7F7F7" d="M616.123,356.478h5.72l-1.251,108.495h-8.579L616.123,356.478z"/>
+	<rect x="606" y="240" fill="#FFF55B" width="30" height="21"/>
+</g>
+<rect x="587" y="295" fill="#FFFFFF" width="71" height="206"/>
+<rect x="571" y="273" fill="#E74C3C" width="102" height="22"/>
+<rect x="587" y="324" fill="#E74C3C" width="71" height="21"/>
+<rect x="587" y="368" fill="#E74C3C" width="71" height="21"/>
+<circle fill="#E74C3C" cx="622.016" cy="194.821" r="7.134"/>
+<rect x="621" y="172" fill="#E74C3C" width="2" height="30"/>
+<rect x="517" y="500" fill="#27AE60" width="351" height="17"/>
+<rect x="79" y="378" fill="#E74C3C" width="376" height="66"/>
+<text transform="matrix(1 0 0 1 117.5161 422.9297)" fill="#FFF55B" font-family="'Lato-Bold'" font-size="29.5961">3 -  2 - 1 - START</text>
+<circle fill="#C0392B" cx="385.554" cy="411.739" r="19.397"/>
+<text transform="matrix(1 0 0 1 372.106 418.7588)" fill="#FFF55B" font-family="'FontAwesome'" font-size="27.7131"></text>
+</svg>
