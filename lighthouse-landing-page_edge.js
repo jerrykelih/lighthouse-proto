@@ -1,5 +1,5 @@
 /**
- * Adobe Edge: symbol definitions
+ * Adobe Edge: symbol definition
  */
 (function($, Edge, compId){
 //images folder
